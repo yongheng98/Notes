@@ -37,5 +37,7 @@ git commit -m "zhushi" // 提交更改，添加备注信息（此时将提交信
 git push origin master // 将本地仓库的文件push到远程仓库（若push不成功，可以加-f 进行强推操作）
 ```
 
-以后，只需要`git push`
+以后，只需要
+
+![image-20211102213037081](https://i.loli.net/2021/11/02/pFemDS3raMhAT7H.png)
 
